@@ -1,0 +1,1060 @@
+,class,cap-shape,cap-color,cap-diameter,stem-color,species
+0,p,x,o,15.26,w,fly agaric
+1,p,x,o,16.6,w,fly agaric
+2,p,x,o,14.07,w,fly agaric
+3,p,f,e,14.17,w,fly agaric
+4,p,x,o,14.64,w,fly agaric
+5,p,x,o,15.34,w,fly agaric
+6,p,f,o,14.85,w,fly agaric
+7,p,x,e,14.86,w,fly agaric
+8,p,f,o,12.85,w,fly agaric
+9,p,f,e,13.55,w,fly agaric
+10,p,f,e,14.17,w,fly agaric
+11,p,x,o,13.4,w,fly agaric
+12,p,x,o,17.37,w,fly agaric
+13,p,x,o,16.56,w,fly agaric
+14,p,x,e,15.37,w,fly agaric
+15,p,f,e,15.54,w,fly agaric
+16,p,x,e,15.19,w,fly agaric
+17,p,x,o,17.4,w,fly agaric
+18,p,x,o,16.16,w,fly agaric
+19,p,x,e,16.93,w,fly agaric
+20,p,f,e,13.0,w,fly agaric
+21,p,x,e,13.06,w,fly agaric
+22,p,x,o,17.23,w,fly agaric
+23,p,x,e,14.39,w,fly agaric
+24,p,f,o,15.56,w,fly agaric
+25,p,x,o,13.2,w,fly agaric
+26,p,f,e,13.9,w,fly agaric
+27,p,f,o,16.38,w,fly agaric
+28,p,x,e,13.3,w,fly agaric
+29,p,f,o,15.95,w,fly agaric
+30,p,x,o,16.58,w,fly agaric
+31,p,f,o,14.1,w,fly agaric
+32,p,f,o,13.81,w,fly agaric
+33,p,f,o,14.67,w,fly agaric
+34,p,f,e,14.23,w,fly agaric
+35,p,f,e,14.78,w,fly agaric
+36,p,x,e,15.08,w,fly agaric
+37,p,x,e,16.0,w,fly agaric
+38,p,f,o,14.76,w,fly agaric
+39,p,x,e,14.89,w,fly agaric
+40,p,f,e,13.05,w,fly agaric
+41,p,f,e,13.03,w,fly agaric
+42,p,f,o,14.07,w,fly agaric
+43,p,f,o,15.09,w,fly agaric
+44,p,f,o,12.22,w,fly agaric
+45,p,x,e,15.12,w,fly agaric
+46,p,f,e,18.04,w,fly agaric
+47,p,f,o,12.27,w,fly agaric
+48,p,f,o,16.03,w,fly agaric
+49,p,x,o,16.51,w,fly agaric
+50,p,f,o,14.96,w,fly agaric
+51,p,f,e,15.9,w,fly agaric
+52,p,x,e,15.48,w,fly agaric
+53,p,f,o,15.63,w,fly agaric
+54,p,x,o,14.8,w,fly agaric
+55,p,x,o,16.0,w,fly agaric
+56,p,f,o,15.07,w,fly agaric
+57,p,x,e,13.12,w,fly agaric
+58,p,f,o,13.82,w,fly agaric
+59,p,x,e,17.23,w,fly agaric
+60,p,x,o,12.57,w,fly agaric
+61,p,x,o,14.85,w,fly agaric
+62,p,x,e,12.55,w,fly agaric
+63,p,x,e,13.53,w,fly agaric
+64,p,x,e,16.84,w,fly agaric
+65,p,x,o,15.73,w,fly agaric
+66,p,x,o,11.46,w,fly agaric
+67,p,f,o,15.06,w,fly agaric
+68,p,x,e,16.15,w,fly agaric
+69,p,f,o,13.78,w,fly agaric
+70,p,f,e,16.77,w,fly agaric
+71,p,f,o,17.32,w,fly agaric
+72,p,x,e,18.65,w,fly agaric
+73,p,f,e,14.11,w,fly agaric
+74,p,f,o,16.25,w,fly agaric
+75,p,x,o,13.59,w,fly agaric
+76,p,f,o,17.3,w,fly agaric
+77,p,f,e,12.13,w,fly agaric
+78,p,x,e,12.29,w,fly agaric
+79,p,x,o,14.74,w,fly agaric
+80,p,f,e,15.13,w,fly agaric
+81,p,f,o,13.66,w,fly agaric
+82,p,x,e,13.3,w,fly agaric
+83,p,f,o,14.16,w,fly agaric
+84,p,x,o,16.66,w,fly agaric
+85,p,f,e,15.55,w,fly agaric
+86,p,f,e,14.28,w,fly agaric
+87,p,x,e,16.92,w,fly agaric
+88,p,x,e,15.55,w,fly agaric
+89,p,x,o,15.08,w,fly agaric
+90,p,f,o,12.02,w,fly agaric
+91,p,f,e,13.69,w,fly agaric
+92,p,f,o,15.36,w,fly agaric
+93,p,f,o,15.22,w,fly agaric
+94,p,f,e,15.49,w,fly agaric
+95,p,x,e,12.16,w,fly agaric
+96,p,f,o,16.04,w,fly agaric
+97,p,f,e,16.31,w,fly agaric
+98,p,f,o,15.35,w,fly agaric
+99,p,x,o,11.17,w,fly agaric
+100,p,x,e,13.74,w,fly agaric
+101,p,f,e,14.62,w,fly agaric
+102,p,f,o,13.14,w,fly agaric
+103,p,x,o,15.53,w,fly agaric
+104,p,x,o,17.08,w,fly agaric
+105,p,x,o,17.09,w,fly agaric
+106,p,x,o,15.31,w,fly agaric
+107,p,f,e,16.11,w,fly agaric
+108,p,x,o,14.96,w,fly agaric
+109,p,x,e,16.12,w,fly agaric
+110,p,f,o,14.19,w,fly agaric
+111,p,x,o,15.67,w,fly agaric
+112,p,x,e,11.35,w,fly agaric
+113,p,x,o,14.52,w,fly agaric
+114,p,f,o,14.41,w,fly agaric
+115,p,f,e,16.3,w,fly agaric
+116,p,x,o,13.36,w,fly agaric
+117,p,x,o,14.29,w,fly agaric
+118,p,x,o,12.29,w,fly agaric
+119,p,f,o,13.66,w,fly agaric
+120,p,f,e,14.51,w,fly agaric
+121,p,f,e,14.55,w,fly agaric
+122,p,f,e,14.97,w,fly agaric
+123,p,x,o,13.06,w,fly agaric
+124,p,x,o,12.85,w,fly agaric
+125,p,f,e,14.0,w,fly agaric
+126,p,f,e,13.93,w,fly agaric
+127,p,f,o,17.91,w,fly agaric
+128,p,f,e,14.43,w,fly agaric
+129,p,f,e,13.43,w,fly agaric
+130,p,f,o,13.04,w,fly agaric
+131,p,x,e,17.1,w,fly agaric
+132,p,f,e,15.07,w,fly agaric
+133,p,f,e,15.03,w,fly agaric
+134,p,f,e,16.37,w,fly agaric
+135,p,f,o,11.02,w,fly agaric
+136,p,f,e,17.61,w,fly agaric
+137,p,f,o,17.54,w,fly agaric
+138,p,x,o,16.77,w,fly agaric
+139,p,f,o,16.21,w,fly agaric
+140,p,x,e,14.94,w,fly agaric
+141,p,f,o,14.74,w,fly agaric
+142,p,x,o,15.97,w,fly agaric
+143,p,x,e,13.56,w,fly agaric
+144,p,x,e,15.13,w,fly agaric
+145,p,f,o,15.42,w,fly agaric
+146,p,x,o,13.49,w,fly agaric
+147,p,f,e,15.71,w,fly agaric
+148,p,f,e,14.96,w,fly agaric
+149,p,f,o,15.34,w,fly agaric
+150,p,x,o,12.26,w,fly agaric
+151,p,f,o,13.46,w,fly agaric
+152,p,f,o,16.59,w,fly agaric
+153,p,x,e,14.98,w,fly agaric
+154,p,f,e,13.7,w,fly agaric
+155,p,x,e,14.92,w,fly agaric
+156,p,f,e,12.0,w,fly agaric
+157,p,f,e,14.75,w,fly agaric
+158,p,f,e,16.6,w,fly agaric
+159,p,x,o,11.77,w,fly agaric
+160,p,f,o,16.37,w,fly agaric
+161,p,f,e,13.89,w,fly agaric
+162,p,f,e,11.71,w,fly agaric
+163,p,f,o,15.5,w,fly agaric
+164,p,x,e,15.93,w,fly agaric
+165,p,f,e,17.73,w,fly agaric
+166,p,f,e,17.23,w,fly agaric
+167,p,f,o,16.76,w,fly agaric
+168,p,x,o,14.14,w,fly agaric
+169,p,x,o,12.86,w,fly agaric
+170,p,f,o,16.79,w,fly agaric
+171,p,f,e,14.18,w,fly agaric
+172,p,x,e,13.56,w,fly agaric
+173,p,x,e,14.32,w,fly agaric
+174,p,x,e,13.64,w,fly agaric
+175,p,x,o,13.49,w,fly agaric
+176,p,x,e,14.7,w,fly agaric
+177,p,f,o,13.33,w,fly agaric
+178,p,f,e,12.87,w,fly agaric
+179,p,x,e,14.36,w,fly agaric
+180,p,f,e,14.39,w,fly agaric
+181,p,x,e,14.17,w,fly agaric
+182,p,f,o,16.4,w,fly agaric
+183,p,f,e,12.31,w,fly agaric
+184,p,x,e,14.77,w,fly agaric
+185,p,f,e,15.02,w,fly agaric
+186,p,x,o,13.9,w,fly agaric
+187,p,x,e,17.13,w,fly agaric
+188,p,f,o,13.68,w,fly agaric
+189,p,x,e,15.0,w,fly agaric
+190,p,x,e,13.5,w,fly agaric
+191,p,x,e,13.94,w,fly agaric
+192,p,f,e,14.62,w,fly agaric
+193,p,f,o,13.76,w,fly agaric
+194,p,x,e,16.71,w,fly agaric
+195,p,x,e,15.5,w,fly agaric
+196,p,x,e,14.77,w,fly agaric
+197,p,x,o,18.14,w,fly agaric
+198,p,x,o,15.78,w,fly agaric
+199,p,x,o,17.25,w,fly agaric
+200,p,f,o,16.58,w,fly agaric
+201,p,x,e,13.06,w,fly agaric
+202,p,x,o,15.48,w,fly agaric
+203,p,f,o,16.1,w,fly agaric
+204,p,x,e,15.57,w,fly agaric
+205,p,x,o,15.02,w,fly agaric
+206,p,x,e,14.13,w,fly agaric
+207,p,f,o,16.03,w,fly agaric
+208,p,x,o,13.82,w,fly agaric
+209,p,x,o,15.89,w,fly agaric
+210,p,f,o,15.0,w,fly agaric
+211,p,f,e,17.22,w,fly agaric
+212,p,x,o,16.76,w,fly agaric
+213,p,x,o,16.97,w,fly agaric
+214,p,f,e,17.87,w,fly agaric
+215,p,f,e,12.96,w,fly agaric
+216,p,x,o,15.59,w,fly agaric
+217,p,x,e,14.37,w,fly agaric
+218,p,x,e,14.8,w,fly agaric
+219,p,f,o,13.42,w,fly agaric
+220,p,f,e,13.44,w,fly agaric
+221,p,x,o,15.64,w,fly agaric
+222,p,x,o,15.16,w,fly agaric
+223,p,f,o,14.24,w,fly agaric
+224,p,x,e,13.27,w,fly agaric
+225,p,x,o,14.33,w,fly agaric
+226,p,x,o,18.59,w,fly agaric
+227,p,x,e,16.92,w,fly agaric
+228,p,f,o,14.63,w,fly agaric
+229,p,f,e,14.71,w,fly agaric
+230,p,x,e,14.84,w,fly agaric
+231,p,f,o,14.1,w,fly agaric
+232,p,f,e,11.69,w,fly agaric
+233,p,f,e,13.63,w,fly agaric
+234,p,f,e,15.29,w,fly agaric
+235,p,x,e,15.57,w,fly agaric
+236,p,x,o,17.58,w,fly agaric
+237,p,f,e,15.4,w,fly agaric
+238,p,f,e,13.64,w,fly agaric
+239,p,x,e,17.25,w,fly agaric
+240,p,f,o,17.84,w,fly agaric
+241,p,x,e,15.48,w,fly agaric
+242,p,f,o,14.57,w,fly agaric
+243,p,x,e,14.45,w,fly agaric
+244,p,f,e,15.79,w,fly agaric
+245,p,x,o,17.38,w,fly agaric
+246,p,f,o,14.91,w,fly agaric
+247,p,f,o,16.98,w,fly agaric
+248,p,f,o,13.73,w,fly agaric
+249,p,f,o,14.99,w,fly agaric
+250,p,x,o,15.01,w,fly agaric
+251,p,x,o,15.84,w,fly agaric
+252,p,x,o,16.62,w,fly agaric
+253,p,f,o,11.29,w,fly agaric
+254,p,f,o,13.95,w,fly agaric
+255,p,x,e,14.27,w,fly agaric
+256,p,f,o,17.38,w,fly agaric
+257,p,x,o,13.05,w,fly agaric
+258,p,f,e,14.45,w,fly agaric
+259,p,f,o,15.88,w,fly agaric
+260,p,f,o,15.28,w,fly agaric
+261,p,x,o,14.68,w,fly agaric
+262,p,f,e,14.39,w,fly agaric
+263,p,f,o,16.16,w,fly agaric
+264,p,f,e,15.47,w,fly agaric
+265,p,x,o,14.05,w,fly agaric
+266,p,f,o,15.02,w,fly agaric
+267,p,x,o,17.17,w,fly agaric
+268,p,f,o,15.01,w,fly agaric
+269,p,x,o,16.22,w,fly agaric
+270,p,f,e,14.94,w,fly agaric
+271,p,f,o,13.22,w,fly agaric
+272,p,x,o,13.66,w,fly agaric
+273,p,f,o,18.31,w,fly agaric
+274,p,f,o,11.68,w,fly agaric
+275,p,f,o,13.45,w,fly agaric
+276,p,x,e,14.42,w,fly agaric
+277,p,f,e,15.6,w,fly agaric
+278,p,x,o,10.58,w,fly agaric
+279,p,x,e,17.58,w,fly agaric
+280,p,x,o,15.6,w,fly agaric
+281,p,x,e,16.68,w,fly agaric
+282,p,f,o,15.66,w,fly agaric
+283,p,f,o,12.18,w,fly agaric
+284,p,f,e,15.71,w,fly agaric
+285,p,x,e,14.73,w,fly agaric
+286,p,f,e,12.42,w,fly agaric
+287,p,x,o,18.68,w,fly agaric
+288,p,f,o,16.82,w,fly agaric
+289,p,f,e,15.35,w,fly agaric
+290,p,f,o,14.34,w,fly agaric
+291,p,x,e,13.99,w,fly agaric
+292,p,f,o,16.46,w,fly agaric
+293,p,f,e,15.72,w,fly agaric
+294,p,x,o,15.73,w,fly agaric
+295,p,x,e,14.81,w,fly agaric
+296,p,x,e,16.51,w,fly agaric
+297,p,x,e,14.05,w,fly agaric
+298,p,f,e,13.23,w,fly agaric
+299,p,x,e,13.68,w,fly agaric
+300,p,f,e,15.42,w,fly agaric
+301,p,f,o,15.37,w,fly agaric
+302,p,x,e,17.31,w,fly agaric
+303,p,f,o,14.84,w,fly agaric
+304,p,f,o,13.95,w,fly agaric
+305,p,f,e,13.43,w,fly agaric
+306,p,x,e,16.39,w,fly agaric
+307,p,x,o,11.7,w,fly agaric
+308,p,x,o,12.6,w,fly agaric
+309,p,f,o,16.16,w,fly agaric
+310,p,x,o,12.67,w,fly agaric
+311,p,x,o,15.52,w,fly agaric
+312,p,x,o,15.26,w,fly agaric
+313,p,x,e,16.2,w,fly agaric
+314,p,f,e,16.82,w,fly agaric
+315,p,f,e,15.27,w,fly agaric
+316,p,f,o,12.1,w,fly agaric
+317,p,x,e,14.28,w,fly agaric
+318,p,f,o,15.03,w,fly agaric
+319,p,x,e,18.1,w,fly agaric
+320,p,f,o,16.69,w,fly agaric
+321,p,x,o,11.3,w,fly agaric
+322,p,f,e,14.66,w,fly agaric
+323,p,f,e,13.99,w,fly agaric
+324,p,f,e,13.62,w,fly agaric
+325,p,f,e,14.49,w,fly agaric
+326,p,x,e,14.16,w,fly agaric
+327,p,x,o,18.89,w,fly agaric
+328,p,x,o,13.03,w,fly agaric
+329,p,x,e,12.8,w,fly agaric
+330,p,x,e,13.7,w,fly agaric
+331,p,x,o,14.42,w,fly agaric
+332,p,x,o,14.45,w,fly agaric
+333,p,f,e,16.11,w,fly agaric
+334,p,x,e,15.61,w,fly agaric
+335,p,x,o,14.93,w,fly agaric
+336,p,f,e,15.58,w,fly agaric
+337,p,x,e,15.98,w,fly agaric
+338,p,f,o,15.62,w,fly agaric
+339,p,x,e,16.79,w,fly agaric
+340,p,f,o,13.6,w,fly agaric
+341,p,f,e,15.3,w,fly agaric
+342,p,f,o,16.08,w,fly agaric
+343,p,x,e,13.43,w,fly agaric
+344,p,x,o,16.24,w,fly agaric
+345,p,f,o,16.78,w,fly agaric
+346,p,f,o,16.26,w,fly agaric
+347,p,x,e,12.59,w,fly agaric
+348,p,x,e,16.68,w,fly agaric
+349,p,f,o,14.89,w,fly agaric
+350,p,x,o,14.72,w,fly agaric
+351,p,x,o,13.59,w,fly agaric
+352,p,x,o,16.07,w,fly agaric
+48362,e,p,n,17.63,n,king bolete
+48363,e,x,n,22.4,n,king bolete
+48364,e,p,n,24.73,n,king bolete
+48365,e,x,n,22.83,n,king bolete
+48366,e,p,n,25.56,n,king bolete
+48367,e,x,n,20.03,n,king bolete
+48368,e,p,n,14.36,n,king bolete
+48369,e,x,n,13.42,n,king bolete
+48370,e,x,n,18.94,n,king bolete
+48371,e,p,n,18.14,n,king bolete
+48372,e,p,n,23.16,n,king bolete
+48373,e,p,n,17.94,n,king bolete
+48374,e,p,n,20.17,n,king bolete
+48375,e,x,n,21.55,n,king bolete
+48376,e,x,n,21.16,n,king bolete
+48377,e,x,n,17.26,n,king bolete
+48378,e,p,n,18.66,n,king bolete
+48379,e,x,n,17.27,n,king bolete
+48380,e,p,n,16.66,n,king bolete
+48381,e,p,n,12.98,n,king bolete
+48382,e,p,n,22.64,n,king bolete
+48383,e,x,n,22.36,n,king bolete
+48384,e,p,n,20.48,n,king bolete
+48385,e,x,n,12.74,n,king bolete
+48386,e,x,n,19.36,n,king bolete
+48387,e,p,n,18.88,n,king bolete
+48388,e,x,n,12.16,n,king bolete
+48389,e,p,n,22.69,n,king bolete
+48390,e,p,n,14.79,n,king bolete
+48391,e,p,n,18.09,n,king bolete
+48392,e,x,n,13.79,n,king bolete
+48393,e,x,n,25.11,n,king bolete
+48394,e,x,n,8.93,n,king bolete
+48395,e,p,n,17.02,n,king bolete
+48396,e,x,n,13.59,n,king bolete
+48397,e,x,n,20.51,n,king bolete
+48398,e,p,n,19.16,n,king bolete
+48399,e,p,n,18.98,n,king bolete
+48400,e,x,n,16.23,n,king bolete
+48401,e,p,n,19.06,n,king bolete
+48402,e,p,n,19.65,n,king bolete
+48403,e,x,n,23.74,n,king bolete
+48404,e,p,n,16.7,n,king bolete
+48405,e,p,n,19.7,n,king bolete
+48406,e,x,n,21.35,n,king bolete
+48407,e,x,n,20.74,n,king bolete
+48408,e,p,n,19.42,n,king bolete
+48409,e,p,n,12.3,n,king bolete
+48410,e,x,n,17.61,n,king bolete
+48411,e,x,n,20.12,n,king bolete
+48412,e,p,n,22.72,n,king bolete
+48413,e,p,n,10.75,n,king bolete
+48414,e,x,n,12.9,n,king bolete
+48415,e,p,n,22.04,n,king bolete
+48416,e,p,n,14.24,n,king bolete
+48417,e,x,n,18.85,n,king bolete
+48418,e,x,n,20.41,n,king bolete
+48419,e,x,n,24.78,n,king bolete
+48420,e,p,n,19.32,n,king bolete
+48421,e,p,n,16.65,n,king bolete
+48422,e,p,n,16.36,n,king bolete
+48423,e,x,n,17.29,n,king bolete
+48424,e,p,n,19.37,n,king bolete
+48425,e,x,n,18.2,n,king bolete
+48426,e,p,n,18.33,n,king bolete
+48427,e,x,n,20.68,n,king bolete
+48428,e,x,n,18.5,n,king bolete
+48429,e,p,n,14.36,n,king bolete
+48430,e,x,n,17.74,n,king bolete
+48431,e,x,n,17.73,n,king bolete
+48432,e,p,n,19.73,n,king bolete
+48433,e,p,n,18.18,n,king bolete
+48434,e,x,n,26.65,n,king bolete
+48435,e,x,n,26.04,n,king bolete
+48436,e,x,n,21.14,n,king bolete
+48437,e,x,n,15.47,n,king bolete
+48438,e,x,n,13.26,n,king bolete
+48439,e,p,n,13.87,n,king bolete
+48440,e,x,n,13.37,n,king bolete
+48441,e,x,n,16.08,n,king bolete
+48442,e,x,n,14.19,n,king bolete
+48443,e,x,n,21.12,n,king bolete
+48444,e,x,n,18.39,n,king bolete
+48445,e,x,n,19.01,n,king bolete
+48446,e,x,n,14.25,n,king bolete
+48447,e,p,n,22.5,n,king bolete
+48448,e,p,n,17.28,n,king bolete
+48449,e,x,n,12.03,n,king bolete
+48450,e,x,n,22.32,n,king bolete
+48451,e,p,n,19.35,n,king bolete
+48452,e,x,n,12.13,n,king bolete
+48453,e,p,n,24.13,n,king bolete
+48454,e,p,n,19.64,n,king bolete
+48455,e,p,n,13.17,n,king bolete
+48456,e,p,n,25.83,n,king bolete
+48457,e,p,n,23.94,n,king bolete
+48458,e,x,n,17.05,n,king bolete
+48459,e,p,n,22.56,n,king bolete
+48460,e,x,n,15.06,n,king bolete
+48461,e,p,n,19.97,n,king bolete
+48462,e,p,n,18.51,n,king bolete
+48463,e,p,n,14.74,n,king bolete
+48464,e,p,n,14.55,n,king bolete
+48465,e,x,n,17.07,n,king bolete
+48466,e,x,n,19.26,n,king bolete
+48467,e,x,n,15.56,n,king bolete
+48468,e,p,n,22.68,n,king bolete
+48469,e,x,n,19.92,n,king bolete
+48470,e,p,n,16.95,n,king bolete
+48471,e,x,n,22.07,n,king bolete
+48472,e,p,n,15.34,n,king bolete
+48473,e,x,n,14.91,n,king bolete
+48474,e,x,n,13.43,n,king bolete
+48475,e,x,n,17.34,n,king bolete
+48476,e,x,n,20.98,n,king bolete
+48477,e,x,n,17.99,n,king bolete
+48478,e,p,n,23.18,n,king bolete
+48479,e,x,n,19.68,n,king bolete
+48480,e,x,n,18.16,n,king bolete
+48481,e,p,n,18.47,n,king bolete
+48482,e,x,n,11.75,n,king bolete
+48483,e,p,n,23.67,n,king bolete
+48484,e,p,n,19.54,n,king bolete
+48485,e,p,n,15.94,n,king bolete
+48486,e,p,n,12.42,n,king bolete
+48487,e,p,n,18.82,n,king bolete
+48488,e,x,n,21.25,n,king bolete
+48489,e,x,n,21.04,n,king bolete
+48490,e,x,n,17.24,n,king bolete
+48491,e,x,n,26.44,n,king bolete
+48492,e,p,n,19.15,n,king bolete
+48493,e,x,n,21.66,n,king bolete
+48494,e,x,n,18.48,n,king bolete
+48495,e,p,n,9.93,n,king bolete
+48496,e,p,n,17.98,n,king bolete
+48497,e,x,n,15.06,n,king bolete
+48498,e,p,n,17.25,n,king bolete
+48499,e,p,n,24.68,n,king bolete
+48500,e,x,n,16.4,n,king bolete
+48501,e,p,n,30.94,n,king bolete
+48502,e,p,n,15.28,n,king bolete
+48503,e,p,n,16.62,n,king bolete
+48504,e,x,n,23.3,n,king bolete
+48505,e,p,n,23.66,n,king bolete
+48506,e,x,n,20.09,n,king bolete
+48507,e,p,n,15.49,n,king bolete
+48508,e,p,n,18.94,n,king bolete
+48509,e,x,n,16.9,n,king bolete
+48510,e,p,n,20.84,n,king bolete
+48511,e,x,n,20.53,n,king bolete
+48512,e,x,n,17.95,n,king bolete
+48513,e,x,n,10.44,n,king bolete
+48514,e,x,n,19.35,n,king bolete
+48515,e,x,n,22.95,n,king bolete
+48516,e,p,n,15.9,n,king bolete
+48517,e,x,n,16.79,n,king bolete
+48518,e,p,n,20.52,n,king bolete
+48519,e,x,n,18.57,n,king bolete
+48520,e,p,n,20.97,n,king bolete
+48521,e,p,n,17.33,n,king bolete
+48522,e,p,n,20.71,n,king bolete
+48523,e,p,n,13.82,n,king bolete
+48524,e,p,n,20.94,n,king bolete
+48525,e,p,n,20.05,n,king bolete
+48526,e,x,n,15.9,n,king bolete
+48527,e,x,n,14.04,n,king bolete
+48528,e,p,n,22.68,n,king bolete
+48529,e,p,n,22.19,n,king bolete
+48530,e,p,n,18.85,n,king bolete
+48531,e,x,n,11.83,n,king bolete
+48532,e,p,n,20.77,n,king bolete
+48533,e,x,n,15.25,n,king bolete
+48534,e,p,n,21.76,n,king bolete
+48535,e,x,n,20.52,n,king bolete
+48536,e,x,n,17.42,n,king bolete
+48537,e,p,n,14.95,n,king bolete
+48538,e,x,n,21.2,n,king bolete
+48539,e,p,n,21.27,n,king bolete
+48540,e,p,n,12.27,n,king bolete
+48541,e,p,n,17.64,n,king bolete
+48542,e,p,n,21.61,n,king bolete
+48543,e,p,n,17.24,n,king bolete
+48544,e,x,n,16.64,n,king bolete
+48545,e,x,n,16.09,n,king bolete
+48546,e,x,n,14.5,n,king bolete
+48547,e,x,n,11.05,n,king bolete
+48548,e,p,n,18.84,n,king bolete
+48549,e,x,n,14.55,n,king bolete
+48550,e,p,n,20.24,n,king bolete
+48551,e,x,n,18.67,n,king bolete
+48552,e,x,n,23.46,n,king bolete
+48553,e,x,n,20.45,n,king bolete
+48554,e,x,n,22.12,n,king bolete
+48555,e,x,n,23.82,n,king bolete
+48556,e,x,n,17.95,n,king bolete
+48557,e,x,n,17.06,n,king bolete
+48558,e,x,n,18.13,n,king bolete
+48559,e,x,n,19.83,n,king bolete
+48560,e,p,n,17.78,n,king bolete
+48561,e,p,n,9.43,n,king bolete
+48562,e,p,n,22.36,n,king bolete
+48563,e,p,n,28.33,n,king bolete
+48564,e,x,n,18.04,n,king bolete
+48565,e,x,n,21.58,n,king bolete
+48566,e,p,n,17.51,n,king bolete
+48567,e,p,n,14.54,n,king bolete
+48568,e,x,n,16.06,n,king bolete
+48569,e,x,n,20.49,n,king bolete
+48570,e,x,n,15.99,n,king bolete
+48571,e,p,n,21.72,n,king bolete
+48572,e,x,n,16.98,n,king bolete
+48573,e,p,n,16.03,n,king bolete
+48574,e,p,n,18.07,n,king bolete
+48575,e,p,n,18.98,n,king bolete
+48576,e,p,n,21.37,n,king bolete
+48577,e,x,n,27.07,n,king bolete
+48578,e,p,n,16.0,n,king bolete
+48579,e,p,n,21.91,n,king bolete
+48580,e,p,n,18.22,n,king bolete
+48581,e,x,n,10.3,n,king bolete
+48582,e,x,n,20.91,n,king bolete
+48583,e,p,n,14.66,n,king bolete
+48584,e,x,n,18.39,n,king bolete
+48585,e,x,n,21.37,n,king bolete
+48586,e,x,n,18.12,n,king bolete
+48587,e,x,n,14.87,n,king bolete
+48588,e,x,n,30.48,n,king bolete
+48589,e,p,n,18.02,n,king bolete
+48590,e,x,n,16.43,n,king bolete
+48591,e,x,n,16.96,n,king bolete
+48592,e,x,n,18.08,n,king bolete
+48593,e,p,n,21.71,n,king bolete
+48594,e,x,n,21.29,n,king bolete
+48595,e,p,n,17.31,n,king bolete
+48596,e,x,n,18.36,n,king bolete
+48597,e,x,n,26.43,n,king bolete
+48598,e,p,n,20.28,n,king bolete
+48599,e,x,n,13.22,n,king bolete
+48600,e,x,n,10.88,n,king bolete
+48601,e,x,n,18.67,n,king bolete
+48602,e,x,n,11.86,n,king bolete
+48603,e,p,n,16.98,n,king bolete
+48604,e,p,n,21.25,n,king bolete
+48605,e,p,n,18.59,n,king bolete
+48606,e,x,n,10.41,n,king bolete
+48607,e,p,n,17.96,n,king bolete
+48608,e,x,n,12.24,n,king bolete
+48609,e,x,n,24.54,n,king bolete
+48610,e,x,n,19.73,n,king bolete
+48611,e,x,n,17.43,n,king bolete
+48612,e,x,n,17.14,n,king bolete
+48613,e,x,n,25.5,n,king bolete
+48614,e,p,n,13.38,n,king bolete
+48615,e,p,n,23.42,n,king bolete
+48616,e,p,n,14.38,n,king bolete
+48617,e,p,n,20.94,n,king bolete
+48618,e,p,n,23.51,n,king bolete
+48619,e,p,n,21.97,n,king bolete
+48620,e,p,n,17.81,n,king bolete
+48621,e,x,n,14.23,n,king bolete
+48622,e,x,n,22.54,n,king bolete
+48623,e,x,n,16.86,n,king bolete
+48624,e,x,n,18.72,n,king bolete
+48625,e,p,n,10.63,n,king bolete
+48626,e,x,n,16.01,n,king bolete
+48627,e,p,n,18.32,n,king bolete
+48628,e,p,n,22.23,n,king bolete
+48629,e,x,n,12.91,n,king bolete
+48630,e,p,n,18.53,n,king bolete
+48631,e,x,n,21.33,n,king bolete
+48632,e,x,n,22.32,n,king bolete
+48633,e,x,n,24.68,n,king bolete
+48634,e,p,n,23.44,n,king bolete
+48635,e,p,n,20.56,n,king bolete
+48636,e,x,n,20.63,n,king bolete
+48637,e,p,n,18.38,n,king bolete
+48638,e,p,n,18.95,n,king bolete
+48639,e,x,n,24.06,n,king bolete
+48640,e,p,n,19.29,n,king bolete
+48641,e,x,n,16.43,n,king bolete
+48642,e,x,n,14.87,n,king bolete
+48643,e,x,n,22.4,n,king bolete
+48644,e,p,n,16.72,n,king bolete
+48645,e,p,n,23.91,n,king bolete
+48646,e,x,n,19.82,n,king bolete
+48647,e,p,n,15.85,n,king bolete
+48648,e,x,n,20.86,n,king bolete
+48649,e,p,n,10.63,n,king bolete
+48650,e,p,n,18.03,n,king bolete
+48651,e,p,n,22.37,n,king bolete
+48652,e,p,n,16.91,n,king bolete
+48653,e,p,n,19.91,n,king bolete
+48654,e,p,n,21.53,n,king bolete
+48655,e,p,n,17.13,n,king bolete
+48656,e,p,n,17.02,n,king bolete
+48657,e,p,n,19.68,n,king bolete
+48658,e,x,n,12.97,n,king bolete
+48659,e,p,n,25.43,n,king bolete
+48660,e,p,n,27.83,n,king bolete
+48661,e,x,n,17.49,n,king bolete
+48662,e,x,n,25.12,n,king bolete
+48663,e,x,n,17.42,n,king bolete
+48664,e,p,n,16.61,n,king bolete
+48665,e,p,n,11.69,n,king bolete
+48666,e,p,n,21.88,n,king bolete
+48667,e,p,n,20.04,n,king bolete
+48668,e,x,n,20.93,n,king bolete
+48669,e,x,n,14.68,n,king bolete
+48670,e,p,n,20.19,n,king bolete
+48671,e,x,n,18.65,n,king bolete
+48672,e,p,n,17.62,n,king bolete
+48673,e,x,n,20.56,n,king bolete
+48674,e,x,n,20.79,n,king bolete
+48675,e,p,n,26.91,n,king bolete
+48676,e,x,n,22.2,n,king bolete
+48677,e,p,n,19.03,n,king bolete
+48678,e,p,n,20.02,n,king bolete
+48679,e,x,n,20.78,n,king bolete
+48680,e,x,n,21.94,n,king bolete
+48681,e,p,n,23.28,n,king bolete
+48682,e,p,n,27.6,n,king bolete
+48683,e,p,n,16.53,n,king bolete
+48684,e,x,n,19.23,n,king bolete
+48685,e,x,n,17.97,n,king bolete
+48686,e,x,n,24.2,n,king bolete
+48687,e,x,n,15.98,n,king bolete
+48688,e,x,n,19.53,n,king bolete
+48689,e,x,n,23.01,n,king bolete
+48690,e,x,n,15.24,n,king bolete
+48691,e,p,n,19.22,n,king bolete
+48692,e,p,n,15.95,n,king bolete
+48693,e,p,n,19.38,n,king bolete
+48694,e,p,n,19.23,n,king bolete
+48695,e,x,n,23.67,n,king bolete
+48696,e,x,n,17.75,n,king bolete
+48697,e,p,n,12.21,n,king bolete
+48698,e,p,n,16.59,n,king bolete
+48699,e,p,n,20.86,n,king bolete
+48700,e,p,n,15.74,n,king bolete
+48701,e,p,n,18.52,n,king bolete
+48702,e,x,n,29.82,n,king bolete
+48703,e,p,n,14.65,n,king bolete
+48704,e,x,n,26.16,n,king bolete
+48705,e,p,n,16.35,n,king bolete
+48706,e,p,n,16.3,n,king bolete
+48707,e,x,n,13.3,n,king bolete
+48708,e,p,n,27.07,n,king bolete
+48709,e,x,n,20.35,n,king bolete
+48710,e,p,n,18.87,n,king bolete
+48711,e,x,n,18.44,n,king bolete
+48712,e,p,n,14.58,n,king bolete
+48713,e,x,n,13.24,n,king bolete
+48714,e,x,n,13.21,n,king bolete
+54362,e,s,y,6.98,y,fly agaric
+54363,e,f,y,5.08,y,chantarelle
+54364,e,s,y,4.36,y,chantarelle
+54365,e,s,y,5.17,y,chantarelle
+54366,e,f,y,5.74,y,chantarelle
+54367,e,s,y,5.45,y,chantarelle
+54368,e,s,y,7.44,y,chantarelle
+54369,e,s,y,3.93,y,chantarelle
+54370,e,s,y,7.94,y,chantarelle
+54371,e,s,y,7.74,y,chantarelle
+54372,e,f,y,4.98,y,chantarelle
+54373,e,x,y,6.56,y,chantarelle
+54374,e,x,y,7.24,y,chantarelle
+54375,e,s,y,5.35,y,chantarelle
+54376,e,x,y,4.47,y,chantarelle
+54377,e,s,y,6.99,y,chantarelle
+54378,e,f,y,4.86,y,chantarelle
+54379,e,s,y,3.44,y,chantarelle
+54380,e,f,y,8.17,y,chantarelle
+54381,e,f,y,3.92,y,chantarelle
+54382,e,f,y,7.08,y,chantarelle
+54383,e,x,y,6.72,y,chantarelle
+54384,e,f,y,6.08,y,chantarelle
+54385,e,x,y,4.25,y,chantarelle
+54386,e,f,y,7.86,y,chantarelle
+54387,e,s,y,6.51,y,chantarelle
+54388,e,f,y,6.04,y,chantarelle
+54389,e,x,y,7.25,y,chantarelle
+54390,e,s,y,5.73,y,chantarelle
+54391,e,x,y,6.34,y,chantarelle
+54392,e,f,y,7.28,y,chantarelle
+54393,e,x,y,5.27,y,chantarelle
+54394,e,f,y,5.25,y,chantarelle
+54395,e,x,y,3.12,y,chantarelle
+54396,e,x,y,8.32,y,chantarelle
+54397,e,x,y,6.1,y,chantarelle
+54398,e,f,y,6.96,y,chantarelle
+54399,e,x,y,7.8,y,chantarelle
+54400,e,x,y,4.26,y,chantarelle
+54401,e,f,y,4.42,y,chantarelle
+54402,e,x,y,5.14,y,chantarelle
+54403,e,f,y,3.69,y,chantarelle
+54404,e,f,y,3.66,y,chantarelle
+54405,e,s,y,6.23,y,chantarelle
+54406,e,s,y,7.49,y,chantarelle
+54407,e,f,y,7.53,y,chantarelle
+54408,e,f,y,7.44,y,chantarelle
+54409,e,s,y,3.7,y,chantarelle
+54410,e,x,y,4.73,y,chantarelle
+54411,e,f,y,6.25,y,chantarelle
+54412,e,f,y,8.28,y,chantarelle
+54413,e,x,y,4.18,y,chantarelle
+54414,e,f,y,5.21,y,chantarelle
+54415,e,f,y,5.78,y,chantarelle
+54416,e,s,y,6.99,y,chantarelle
+54417,e,x,y,5.65,y,chantarelle
+54418,e,f,y,5.26,y,chantarelle
+54419,e,x,y,7.4,y,chantarelle
+54420,e,s,y,7.67,y,chantarelle
+54421,e,f,y,5.24,y,chantarelle
+54422,e,x,y,5.71,y,chantarelle
+54423,e,f,y,3.93,y,chantarelle
+54424,e,f,y,6.94,y,chantarelle
+54425,e,s,y,6.53,y,chantarelle
+54426,e,s,y,5.32,y,chantarelle
+54427,e,f,y,5.85,y,chantarelle
+54428,e,s,y,8.82,y,chantarelle
+54429,e,s,y,4.46,y,chantarelle
+54430,e,s,y,6.66,y,chantarelle
+54431,e,x,y,4.87,y,chantarelle
+54432,e,f,y,6.73,y,chantarelle
+54433,e,f,y,4.98,y,chantarelle
+54434,e,x,y,5.66,y,chantarelle
+54435,e,s,y,5.36,y,chantarelle
+54436,e,f,y,6.96,y,chantarelle
+54437,e,s,y,4.94,y,chantarelle
+54438,e,x,y,6.31,y,chantarelle
+54439,e,f,y,6.18,y,chantarelle
+54440,e,x,y,4.81,y,chantarelle
+54441,e,f,y,5.91,y,chantarelle
+54442,e,x,y,3.38,y,chantarelle
+54443,e,x,y,7.25,y,chantarelle
+54444,e,s,y,7.5,y,chantarelle
+54445,e,f,y,6.72,y,chantarelle
+54446,e,x,y,7.99,y,chantarelle
+54447,e,f,y,7.14,y,chantarelle
+54448,e,s,y,5.48,y,chantarelle
+54449,e,x,y,7.22,y,chantarelle
+54450,e,s,y,5.41,y,chantarelle
+54451,e,s,y,5.62,y,chantarelle
+54452,e,x,y,5.9,y,chantarelle
+54453,e,f,y,5.28,y,chantarelle
+54454,e,x,y,6.94,y,chantarelle
+54455,e,x,y,7.35,y,chantarelle
+54456,e,s,y,4.48,y,chantarelle
+54457,e,f,y,4.56,y,chantarelle
+54458,e,s,y,8.06,y,chantarelle
+54459,e,f,y,5.09,y,chantarelle
+54460,e,x,y,7.83,y,chantarelle
+54461,e,f,y,8.28,y,chantarelle
+54462,e,x,y,2.88,y,chantarelle
+54463,e,x,y,6.03,y,chantarelle
+54464,e,f,y,5.86,y,chantarelle
+54465,e,x,y,5.52,y,chantarelle
+54466,e,f,y,2.93,y,chantarelle
+54467,e,f,y,4.33,y,chantarelle
+54468,e,s,y,6.4,y,chantarelle
+54469,e,x,y,5.63,y,chantarelle
+54470,e,x,y,5.71,y,chantarelle
+54471,e,f,y,4.69,y,chantarelle
+54472,e,f,y,6.21,y,chantarelle
+54473,e,f,y,7.0,y,chantarelle
+54474,e,s,y,5.55,y,chantarelle
+54475,e,s,y,6.92,y,chantarelle
+54476,e,f,y,4.82,y,chantarelle
+54477,e,s,y,5.51,y,chantarelle
+54478,e,x,y,6.59,y,chantarelle
+54479,e,x,y,7.11,y,chantarelle
+54480,e,s,y,4.77,y,chantarelle
+54481,e,f,y,5.77,y,chantarelle
+54482,e,s,y,5.3,y,chantarelle
+54483,e,x,y,4.64,y,chantarelle
+54484,e,f,y,5.29,y,chantarelle
+54485,e,x,y,4.75,y,chantarelle
+54486,e,s,y,5.22,y,chantarelle
+54487,e,x,y,6.1,y,chantarelle
+54488,e,x,y,4.48,y,chantarelle
+54489,e,s,y,5.58,y,chantarelle
+54490,e,f,y,4.05,y,chantarelle
+54491,e,f,y,4.93,y,chantarelle
+54492,e,x,y,7.4,y,chantarelle
+54493,e,f,y,6.68,y,chantarelle
+54494,e,x,y,5.23,y,chantarelle
+54495,e,x,y,6.48,y,chantarelle
+54496,e,s,y,8.53,y,chantarelle
+54497,e,x,y,7.0,y,chantarelle
+54498,e,s,y,6.36,y,chantarelle
+54499,e,f,y,6.94,y,chantarelle
+54500,e,f,y,6.58,y,chantarelle
+54501,e,s,y,7.11,y,chantarelle
+54502,e,x,y,4.63,y,chantarelle
+54503,e,s,y,5.77,y,chantarelle
+54504,e,x,y,5.78,y,chantarelle
+54505,e,f,y,5.96,y,chantarelle
+54506,e,f,y,5.46,y,chantarelle
+54507,e,x,y,5.07,y,chantarelle
+54508,e,f,y,5.18,y,chantarelle
+54509,e,x,y,5.15,y,chantarelle
+54510,e,f,y,6.47,y,chantarelle
+54511,e,x,y,8.18,y,chantarelle
+54512,e,s,y,5.78,y,chantarelle
+54513,e,s,y,6.13,y,chantarelle
+54514,e,x,y,6.65,y,chantarelle
+54515,e,f,y,5.23,y,chantarelle
+54516,e,f,y,7.14,y,chantarelle
+54517,e,s,y,5.07,y,chantarelle
+54518,e,f,y,6.1,y,chantarelle
+54519,e,f,y,4.9,y,chantarelle
+54520,e,f,y,5.87,y,chantarelle
+54521,e,x,y,4.57,y,chantarelle
+54522,e,s,y,7.61,y,chantarelle
+54523,e,f,y,5.83,y,chantarelle
+54524,e,x,y,5.14,y,chantarelle
+54525,e,f,y,7.66,y,chantarelle
+54526,e,x,y,6.01,y,chantarelle
+54527,e,f,y,4.85,y,chantarelle
+54528,e,f,y,5.65,y,chantarelle
+54529,e,x,y,6.79,y,chantarelle
+54530,e,f,y,6.11,y,chantarelle
+54531,e,f,y,5.77,y,chantarelle
+54532,e,s,y,5.17,y,chantarelle
+54533,e,f,y,4.69,y,chantarelle
+54534,e,x,y,5.66,y,chantarelle
+54535,e,s,y,7.52,y,chantarelle
+54536,e,s,y,5.17,y,chantarelle
+54537,e,f,y,7.44,y,chantarelle
+54538,e,x,y,6.83,y,chantarelle
+54539,e,s,y,6.41,y,chantarelle
+54540,e,x,y,4.4,y,chantarelle
+54541,e,f,y,7.21,y,chantarelle
+54542,e,x,y,6.54,y,chantarelle
+54543,e,f,y,5.5,y,chantarelle
+54544,e,s,y,9.41,y,chantarelle
+54545,e,f,y,6.42,y,chantarelle
+54546,e,x,y,4.99,y,chantarelle
+54547,e,f,y,8.54,y,chantarelle
+54548,e,s,y,4.68,y,chantarelle
+54549,e,f,y,8.05,y,chantarelle
+54550,e,s,y,6.67,y,chantarelle
+54551,e,s,y,6.14,y,chantarelle
+54552,e,x,y,5.03,y,chantarelle
+54553,e,f,y,3.41,y,chantarelle
+54554,e,s,y,4.98,y,chantarelle
+54555,e,x,y,3.51,y,chantarelle
+54556,e,s,y,8.05,y,chantarelle
+54557,e,f,y,6.35,y,chantarelle
+54558,e,x,y,7.19,y,chantarelle
+54559,e,s,y,6.25,y,chantarelle
+54560,e,s,y,4.8,y,chantarelle
+54561,e,f,y,5.77,y,chantarelle
+54562,e,f,y,6.75,y,chantarelle
+54563,e,f,y,7.0,y,chantarelle
+54564,e,x,y,5.1,y,chantarelle
+54565,e,f,y,4.6,y,chantarelle
+54566,e,f,y,6.0,y,chantarelle
+54567,e,x,y,5.78,y,chantarelle
+54568,e,s,y,7.46,y,chantarelle
+54569,e,s,y,6.19,y,chantarelle
+54570,e,x,y,6.26,y,chantarelle
+54571,e,f,y,3.97,y,chantarelle
+54572,e,x,y,6.75,y,chantarelle
+54573,e,x,y,5.84,y,chantarelle
+54574,e,s,y,4.51,y,chantarelle
+54575,e,f,y,5.03,y,chantarelle
+54576,e,f,y,5.94,y,chantarelle
+54577,e,x,y,5.55,y,chantarelle
+54578,e,s,y,5.11,y,chantarelle
+54579,e,f,y,5.91,y,chantarelle
+54580,e,f,y,7.96,y,chantarelle
+54581,e,s,y,7.71,y,chantarelle
+54582,e,x,y,7.32,y,chantarelle
+54583,e,s,y,7.76,y,chantarelle
+54584,e,f,y,6.5,y,chantarelle
+54585,e,s,y,5.56,y,chantarelle
+54586,e,f,y,8.7,y,chantarelle
+54587,e,f,y,6.38,y,chantarelle
+54588,e,s,y,5.9,y,chantarelle
+54589,e,x,y,5.17,y,chantarelle
+54590,e,f,y,6.45,y,chantarelle
+54591,e,x,y,5.09,y,chantarelle
+54592,e,f,y,5.77,y,chantarelle
+54593,e,f,y,5.94,y,chantarelle
+54594,e,f,y,5.41,y,chantarelle
+54595,e,s,y,6.57,y,chantarelle
+54596,e,f,y,5.73,y,chantarelle
+54597,e,f,y,6.65,y,chantarelle
+54598,e,x,y,7.03,y,chantarelle
+54599,e,f,y,5.17,y,chantarelle
+54600,e,f,y,4.95,y,chantarelle
+54601,e,x,y,7.71,y,chantarelle
+54602,e,f,y,3.95,y,chantarelle
+54603,e,x,y,4.33,y,chantarelle
+54604,e,f,y,6.35,y,chantarelle
+54605,e,f,y,7.02,y,chantarelle
+54606,e,s,y,5.54,y,chantarelle
+54607,e,f,y,5.05,y,chantarelle
+54608,e,f,y,7.31,y,chantarelle
+54609,e,x,y,4.2,y,chantarelle
+54610,e,x,y,7.23,y,chantarelle
+54611,e,s,y,6.33,y,chantarelle
+54612,e,f,y,9.74,y,chantarelle
+54613,e,s,y,4.12,y,chantarelle
+54614,e,x,y,6.0,y,chantarelle
+54615,e,s,y,4.26,y,chantarelle
+54616,e,x,y,5.33,y,chantarelle
+54617,e,x,y,7.75,y,chantarelle
+54618,e,s,y,5.94,y,chantarelle
+54619,e,s,y,7.59,y,chantarelle
+54620,e,s,y,5.7,y,chantarelle
+54621,e,f,y,6.76,y,chantarelle
+54622,e,x,y,3.87,y,chantarelle
+54623,e,x,y,5.53,y,chantarelle
+54624,e,f,y,6.15,y,chantarelle
+54625,e,f,y,7.86,y,chantarelle
+54626,e,s,y,3.08,y,chantarelle
+54627,e,f,y,4.92,y,chantarelle
+54628,e,x,y,6.34,y,chantarelle
+54629,e,x,y,7.73,y,chantarelle
+54630,e,s,y,6.79,y,chantarelle
+54631,e,f,y,7.89,y,chantarelle
+54632,e,f,y,7.21,y,chantarelle
+54633,e,f,y,5.49,y,chantarelle
+54634,e,s,y,6.97,y,chantarelle
+54635,e,x,y,6.13,y,chantarelle
+54636,e,s,y,6.67,y,chantarelle
+54637,e,s,y,5.98,y,chantarelle
+54638,e,f,y,5.21,y,chantarelle
+54639,e,f,y,5.16,y,chantarelle
+54640,e,x,y,8.13,y,chantarelle
+54641,e,x,y,6.54,y,chantarelle
+54642,e,s,y,4.57,y,chantarelle
+54643,e,x,y,7.08,y,chantarelle
+54644,e,x,y,4.19,y,chantarelle
+54645,e,x,y,7.57,y,chantarelle
+54646,e,f,y,7.5,y,chantarelle
+54647,e,x,y,5.01,y,chantarelle
+54648,e,s,y,3.77,y,chantarelle
+54649,e,x,y,5.95,y,chantarelle
+54650,e,f,y,4.0,y,chantarelle
+54651,e,f,y,9.04,y,chantarelle
+54652,e,x,y,8.17,y,chantarelle
+54653,e,f,y,5.29,y,chantarelle
+54654,e,x,y,4.97,y,chantarelle
+54655,e,s,y,9.12,y,chantarelle
+54656,e,s,y,6.95,y,chantarelle
+54657,e,f,y,7.64,y,chantarelle
+54658,e,s,y,7.99,y,chantarelle
+54659,e,x,y,4.33,y,chantarelle
+54660,e,s,y,6.8,y,chantarelle
+54661,e,f,y,5.76,y,chantarelle
+54662,e,s,y,7.11,y,chantarelle
+54663,e,s,y,4.68,y,chantarelle
+54664,e,x,y,5.37,y,chantarelle
+54665,e,s,y,6.14,y,chantarelle
+54666,e,f,y,7.82,y,chantarelle
+54667,e,x,y,4.52,y,chantarelle
+54668,e,f,y,5.48,y,chantarelle
+54669,e,s,y,5.4,y,chantarelle
+54670,e,f,y,6.05,y,chantarelle
+54671,e,s,y,5.63,y,chantarelle
+54672,e,s,y,5.1,y,chantarelle
+54673,e,s,y,5.53,y,chantarelle
+54674,e,f,y,6.88,y,chantarelle
+54675,e,x,y,7.43,y,chantarelle
+54676,e,x,y,6.7,y,chantarelle
+54677,e,f,y,6.18,y,chantarelle
+54678,e,s,y,9.18,y,chantarelle
+54679,e,x,y,6.73,y,chantarelle
+54680,e,f,y,5.42,y,chantarelle
+54681,e,x,y,4.63,y,chantarelle
+54682,e,f,y,6.68,y,chantarelle
+54683,e,s,y,5.06,y,chantarelle
+54684,e,s,y,6.65,y,chantarelle
+54685,e,s,y,7.82,y,chantarelle
+54686,e,f,y,5.2,y,chantarelle
+54687,e,s,y,6.69,y,chantarelle
+54688,e,f,y,4.72,y,chantarelle
+54689,e,x,y,6.14,y,chantarelle
+54690,e,f,y,5.7,y,chantarelle
+54691,e,s,y,6.12,y,chantarelle
+54692,e,s,y,6.0,y,chantarelle
+54693,e,x,y,5.48,y,chantarelle
+54694,e,x,y,7.14,y,chantarelle
+54695,e,x,y,3.42,y,chantarelle
+54696,e,x,y,7.27,y,chantarelle
+54697,e,s,y,6.32,y,chantarelle
+54698,e,f,y,5.43,y,chantarelle
+54699,e,x,y,5.42,y,chantarelle
+54700,e,s,y,6.24,y,chantarelle
+54701,e,s,y,5.64,y,chantarelle
+54702,e,x,y,5.49,y,chantarelle
+54703,e,x,y,6.17,y,chantarelle
+54704,e,s,y,5.37,y,chantarelle
+54705,e,f,y,6.14,y,chantarelle
+54706,e,x,y,6.15,y,chantarelle
+54707,e,x,y,2.67,y,chantarelle
+54708,e,f,y,5.45,y,chantarelle
+54709,e,f,y,4.54,y,chantarelle
+54710,e,f,y,6.52,y,chantarelle
+54711,e,f,y,4.88,y,chantarelle
+54712,e,s,y,5.09,y,chantarelle
+54713,e,x,y,7.28,y,chantarelle
+54714,e,s,y,4.17,y,chantarelle
